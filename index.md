@@ -20,11 +20,6 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
-- template: text-only-hero-banner
-  block: hero-1
-  heading: 'We''re an interdisciplinary lab located at Monash University''s Department
-    of Economics. Out goal is to apply innovative tools and new data-driven methods
-    to social science questions. '
 - template: hero-banner-w-image
   block: hero-2
   headline: SoDa Labs
@@ -37,6 +32,11 @@ page_sections:
     image: "/uploads/2018/10/20/1x1.png"
     alt_text: ''
   background_image: "/uploads/2018/10/20/bg-1.png"
+- template: text-only-hero-banner
+  block: hero-1
+  heading: 'We''re an interdisciplinary lab located at Monash University''s Department
+    of Economics. Out goal is to apply innovative tools and new data-driven methods
+    to social science questions. '
 - template: content-feature
   block: feature-1
   media_alignment: Left

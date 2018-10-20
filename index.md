@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: SoDa Labs
+title: SoDa Labs @ Monash University
 date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: SoDa Labs
-  content: Social insights from alternative data.
+  content: Social [science] insights from alternative data.<br>
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll

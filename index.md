@@ -22,7 +22,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>SoDa Labs</strong>"
+  headline: SoDa Labs
   content: Social insights from alternative data.
   cta:
     enabled: true

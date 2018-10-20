@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: SoDa Labs
-  content: Social Science insights from alternative data.
+  content: Social insights from alternative data.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll

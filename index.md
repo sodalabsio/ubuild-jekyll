@@ -75,6 +75,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/10/20/bg_messy.png"
+- template: full-width-media-element
+  block: media-1
 
 ---
 foo bar

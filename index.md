@@ -74,12 +74,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/10/20/bg_messy.png"
-- template: full-width-media-element
-  block: media-1
+  content: SoDa Labs - Est. 2018
 
 ---
 foo bar

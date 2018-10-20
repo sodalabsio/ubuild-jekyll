@@ -12,11 +12,11 @@ page_sections:
   - link: "#"
     link_text: About
   - link: "#"
-    link_text: Who We Are
+    link_text: People
   - link: "#"
     link_text: Projects
   - link: "#"
-    link_text: Contact Us!
+    link_text: About Us
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download

@@ -25,7 +25,7 @@ page_sections:
   headline: SoDa Labs
   content: Social insights from alternative data.
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:

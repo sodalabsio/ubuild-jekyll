@@ -40,32 +40,19 @@ page_sections:
     more about us our project here</a>. '
 - template: 1-column-text
   block: one-column-1
-  headline: Recent Media Features
+  headline: Projects recently featured in
   content: <img src="/uploads/2018/10/21/640px-Wired_logo.svg.png"><br><a href=""
-    title="">Wired Magazine Germany</a><br><br><br><img src="/uploads/2018/10/21/logo-mit-technology-review-180x180.png"><br><a
+    title="">Wired Magazine Germany</a><br><br><img src="/uploads/2018/10/21/logo-mit-technology-review-180x180.png"><br><a
     href="https://www.technologyreview.com/s/603541/the-trillion-internet-observations-showing-how-global-sleep-patterns-are-changing/"
-    title="">MIT Technological Review<br></a>
+    title="">MIT Technological Review</a>
 - template: 1-column-text
   block: one-column-1
   content: Part-time and full-time positions available. <a href="monashsodalabs@gmail.com"
     title="">Email us here</a>.
   headline: Want to be a research assistant?
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  content: Part-time and full-time positions available. <a href="monashsodalabs@gmail.com"
-    title="">Emails us here</a>.
-  headline: Want to be a research assistant?
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: Want to be a research assistant?
-  col_2:
-    content: Part-time and full-time positions available. <a href="monashsodalabs@gmail.com"
-      title="">Emails us here</a>.
 
 ---
 foo bar

@@ -34,10 +34,10 @@ page_sections:
   background_image: "/uploads/2018/10/20/bg-1.png"
 - template: text-only-hero-banner
   block: hero-1
-  heading: 'We''re an empirical research laboratory located in Monash University''s
-    Department of Economics. We apply new tools from data science, machine learning,
-    and beyond to answer social science questions. <a href="about.html" title="About">Read
-    more about us our project here</a>. '
+  heading: We're an empirical research laboratory located in <a href="https://www.monash.edu/business/economics"
+    title="">Monash University's Department of Economics</a>. We apply new tools from
+    data science, machine learning, and beyond to answer social science questions.
+    <a href="about.html" title="About">Read more about us our project here</a>.
 - template: 1-column-text
   block: one-column-1
   headline: Projects recently featured in

@@ -51,9 +51,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/10/21/bg_messy.gif"
 
 ---
 foo bar

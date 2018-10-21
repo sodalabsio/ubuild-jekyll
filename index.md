@@ -50,6 +50,12 @@ page_sections:
   content: Part-time and full-time positions available. <a href="monashsodalabs@gmail.com"
     title="">Email us here</a>.
   headline: Want to be a research assistant?
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: Part-time and full-time positions available. <a href="monashsodalabs@gmail.com"
+    title="">Emails us here</a>.
+  headline: Want to be a research assistant?
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

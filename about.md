@@ -19,7 +19,7 @@ page_sections:
     link_text: Contact
 - template: text-only-hero-banner
   block: hero-1
-  heading: 'Meet SoDa Labs. '
+  heading: The SoDa Labs research team.
 - template: 1-column-text
   block: one-column-1
   headline: Principal Investigators

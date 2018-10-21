@@ -7,9 +7,8 @@ page_sections:
   block: header-1
   logo: "/uploads/2018/10/20/lillogo.png"
   navigation:
-  - link: Home
-  - {}
-  - {}
+  - link: "#"
+    link_text: Home
   - {}
 - template: simple-footer
   block: footer-1

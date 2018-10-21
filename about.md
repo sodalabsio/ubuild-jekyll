@@ -20,6 +20,9 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   heading: About Us
+- template: 1-column-text
+  block: one-column-1
+  headline: Principal Investigators
 - template: content-feature
   block: feature-1
   media_alignment: Right

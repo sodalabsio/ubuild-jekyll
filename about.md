@@ -23,8 +23,18 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Paul
-  content: sdfdsaf sdfsd;fk;sdf
+  headline: Dr. Paul Raschky
+  content: Paul is Associate Professor of Economics at the Department of Economics
+    at Monash University.His research interests are in the fields of political economy,
+    environmental economics, insurance economics and development economics. <br><br>Paul's
+    research has been published, among others, in the Quarterly Journal of Economics,Journal
+    of the Association of Environmental and Resource Economists, Journal of Environmental
+    Economics and Management, and Journal of Public Economics. Some of his work has
+    been featured by media outlets such as The Economist, The Washington Post, Wired,
+    or MIT Tech Review.<br><br>Paul the founding director of datainspace, co-founder
+    of the IP Observatory, and co-founder and one of the directors of KASPR Datahaus
+    PTY LTD<br><br>Web <a href="https://praschky.github.io/" title="https://praschky.github.io/">https://praschky.github.io/</a><br>Twitter
+    <a href="https://twitter.com/PaulRaschky" title="https://twitter.com/PaulRaschky">https://twitter.com/PaulRaschky</a>
   media:
     image: "/uploads/2018/10/21/paul.jpg"
 - template: simple-footer

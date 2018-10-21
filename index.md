@@ -35,9 +35,8 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   heading: We're an empirical research laboratory located in Monash University's Department
-    of Economics. We apply interdisciplinary tools from data science, machine learning,
-    and beyond to answer social science questions. We like weird data, creative research,
-    and collaboration.
+    of Economics. We apply new tools from data science, machine learning, and beyond
+    to answer social science questions.
 - template: content-feature
   block: feature-1
   media_alignment: Left

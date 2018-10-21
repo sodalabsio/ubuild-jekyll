@@ -63,6 +63,9 @@ page_sections:
   block: two-column-1
   col_1:
     headline: Want to be a research assistant?
+  col_2:
+    content: Part-time and full-time positions available. <a href="monashsodalabs@gmail.com"
+      title="">Emails us here</a>.
 
 ---
 foo bar

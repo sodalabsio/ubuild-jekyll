@@ -90,6 +90,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018
-published: false
 
 ---

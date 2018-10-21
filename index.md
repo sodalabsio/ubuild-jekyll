@@ -34,9 +34,10 @@ page_sections:
   background_image: "/uploads/2018/10/20/bg-1.png"
 - template: text-only-hero-banner
   block: hero-1
-  heading: We're an empirical research laboratory located in Monash University's Department
-    of Economics. We apply new tools from data science, machine learning, and beyond
-    to answer social science questions.
+  heading: 'We''re an empirical research laboratory located in Monash University''s
+    Department of Economics. We apply new tools from data science, machine learning,
+    and beyond to answer social science questions. <a href="about.html" title="About">Read
+    more about us our project here</a>. '
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -45,16 +46,6 @@ page_sections:
   media:
     image: "/uploads/2018/10/21/logo-mit-technology-review-180x180.png"
     alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/10/20/bg_messy.png"
-    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
   headline: Recent Media Features

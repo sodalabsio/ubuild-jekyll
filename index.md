@@ -34,9 +34,10 @@ page_sections:
   background_image: "/uploads/2018/10/20/bg-1.png"
 - template: text-only-hero-banner
   block: hero-1
-  heading: 'We''re an interdisciplinary lab located at Monash University''s Department
-    of Economics. Out goal is to apply innovative tools and new data-driven methods
-    to social science questions. '
+  heading: We're an empirical research laboratory located in Monash University's Department
+    of Economics. We apply interdisciplinary tools from data science, machine learning,
+    and beyond to answer social science questions. We like weird data, creative research,
+    and collaboration.
 - template: content-feature
   block: feature-1
   media_alignment: Left

@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/10/20/lillogo.png"
   navigation:
-  - link: "/"
+  - link: index.html
     link_text: Home
   - link: "#"
     link_text: About

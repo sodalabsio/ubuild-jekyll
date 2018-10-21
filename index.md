@@ -44,7 +44,8 @@ page_sections:
       title="MIT Tech Review"><img src="/uploads/2018/10/21/logo-mit-technology-review-180x180.png"></a>
     headline: MIT Technology Review
   col_2:
-    content: <img src="/uploads/2018/10/21/wired-logo-300x60.png">
+    content: <a href="ttps://www.wired.de/collection/science/das-internet-verraet-wann-und-wie-lange-wir-schlafen"
+      title="WIRED Magazine (DE)"><img src="/uploads/2018/10/21/wired-logo-300x60.png"></a>
     headline: Wired Magazine
 - template: content-feature
   block: feature-1

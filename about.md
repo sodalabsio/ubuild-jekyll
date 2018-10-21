@@ -8,6 +8,8 @@ page_sections:
   logo: "/uploads/2018/10/20/lillogo.png"
   navigation:
   - link: "#"
+    link_text: People
+  - link: "#"
     link_text: Home
   - link: "#"
     link_text: About

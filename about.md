@@ -80,7 +80,7 @@ page_sections:
     economic history. <br><br>Nathan specializes in extracting insights from old and
     messy data using computational techniques. He's worked extensively digitizing
     hard copy data and using optical character recognition, and has a passion for
-    unstructured data writ large.<br><br>
+    unstructured data.<br><br>
   media:
     image: "/uploads/2018/10/21/nathanlane.jpg"
 - template: simple-footer

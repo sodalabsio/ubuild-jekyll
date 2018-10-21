@@ -57,6 +57,18 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Dr. Nathan Lane
+  content: Nathan is a lecturer at Monash University. Nathan is an empirical economist
+    working at the intersection of political economics, development economics, and
+    economic history. <br><br>Nathan specializes in extracting insights from old and
+    messy data using computational techniques. He's worked extensively digitizing
+    hard copy data and using optical character recognition, and has a passion for
+    unstructured data.<br><br>
+  media:
+    image: "/uploads/2018/10/21/nathanlane.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   headline: Dr. Paul Raschky
   content: Paul is Associate Professor of Economics at the Department of Economics
     at Monash University.His research interests are in the fields of political economy,
@@ -71,18 +83,6 @@ page_sections:
     <a href="https://twitter.com/PaulRaschky" title="https://twitter.com/PaulRaschky">https://twitter.com/PaulRaschky</a>
   media:
     image: "/uploads/2018/10/21/paul.jpg"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Dr. Nathan Lane
-  content: Nathan is a lecturer at Monash University. Nathan is an empirical economist
-    working at the intersection of political economics, development economics, and
-    economic history. <br><br>Nathan specializes in extracting insights from old and
-    messy data using computational techniques. He's worked extensively digitizing
-    hard copy data and using optical character recognition, and has a passion for
-    unstructured data.<br><br>
-  media:
-    image: "/uploads/2018/10/21/nathanlane.jpg"
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

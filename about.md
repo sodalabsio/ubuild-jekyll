@@ -23,6 +23,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Principal Investigators
+  content: Meet the lead team of <a href="index.html" title="">SoDa Labs</a>.
 - template: content-feature
   block: feature-1
   media_alignment: Right

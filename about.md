@@ -17,6 +17,11 @@ page_sections:
     link_text: Projects
   - link: "#"
     link_text: Contact
+- template: text-only-hero-banner
+  block: hero-1
+  heading: About Us
+- template: 1-column-text
+  block: one-column-1
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

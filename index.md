@@ -37,16 +37,6 @@ page_sections:
   heading: We're an empirical research laboratory located in Monash University's Department
     of Economics. We apply new tools from data science, machine learning, and beyond
     to answer social science questions.
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    content: <a href="https://www.technologyreview.com/s/603541/the-trillion-internet-observations-showing-how-global-sleep-patterns-are-changing/"
-      title="MIT Tech Review"><img src="/uploads/2018/10/21/logo-mit-technology-review-180x180.png"></a>
-    headline: MIT Technology Review
-  col_2:
-    content: <a href="ttps://www.wired.de/collection/science/das-internet-verraet-wann-und-wie-lange-wir-schlafen"
-      title="WIRED Magazine (DE)"><img src="/uploads/2018/10/21/wired-logo-300x60.png"></a>
-    headline: Wired Magazine
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -67,10 +57,11 @@ page_sections:
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
+  headline: Recent Media Features
+  content: <img src="/uploads/2018/10/21/640px-Wired_logo.svg.png"><br><a href=""
+    title="">Wired Magazine Germany</a><br><br><br><img src="/uploads/2018/10/21/logo-mit-technology-review-180x180.png"><br><a
+    href="https://www.technologyreview.com/s/603541/the-trillion-internet-observations-showing-how-global-sleep-patterns-are-changing/"
+    title="">MIT Technological Review<br></a>
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"

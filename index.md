@@ -40,7 +40,8 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    content: <img src="/uploads/2018/10/21/logo-mit-technology-review-180x180.png">
+    content: <a href="https://www.technologyreview.com/s/603541/the-trillion-internet-observations-showing-how-global-sleep-patterns-are-changing/"
+      title="MIT Tech Review"><img src="/uploads/2018/10/21/logo-mit-technology-review-180x180.png"></a>
     headline: MIT Technology Review
   col_2:
     content: <img src="/uploads/2018/10/21/wired-logo-300x60.png">

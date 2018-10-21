@@ -37,6 +37,11 @@ page_sections:
   heading: We're an empirical research laboratory located in Monash University's Department
     of Economics. We apply new tools from data science, machine learning, and beyond
     to answer social science questions.
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: <img src="/uploads/2018/10/21/logo-mit-technology-review-180x180.png">
+    headline: MIT Technology Review
 - template: content-feature
   block: feature-1
   media_alignment: Left

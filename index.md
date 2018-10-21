@@ -38,14 +38,6 @@ page_sections:
     Department of Economics. We apply new tools from data science, machine learning,
     and beyond to answer social science questions. <a href="about.html" title="About">Read
     more about us our project here</a>. '
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: Projects recently featured in
-  content: Wired and MIT Magazine
-  media:
-    image: "/uploads/2018/10/21/logo-mit-technology-review-180x180.png"
-    alt_text: uBuild Blocks Mock-Up
 - template: 1-column-text
   block: one-column-1
   headline: Recent Media Features
@@ -53,10 +45,20 @@ page_sections:
     title="">Wired Magazine Germany</a><br><br><br><img src="/uploads/2018/10/21/logo-mit-technology-review-180x180.png"><br><a
     href="https://www.technologyreview.com/s/603541/the-trillion-internet-observations-showing-how-global-sleep-patterns-are-changing/"
     title="">MIT Technological Review<br></a>
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
+- template: 1-column-text
+  block: one-column-1
+  content: Part-time and full-time positions available. <a href="monashsodalabs@gmail.com"
+    title="">Email us here</a>.
+  headline: Want to be a research assistant?
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Want to be a research assistant?
+  content: Part-time and full-time positions available. <a href="monashsodalabs@gmail.com"
+    title="">Emails us here</a>.
+  media:
+    image: "/uploads/2018/10/21/logo-mit-technology-review-180x180.png"
+    alt_text: RA Ads
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

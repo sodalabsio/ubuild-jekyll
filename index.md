@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: index.html
     link_text: Home
-  - link: "#"
+  - link: about.html
     link_text: About
   - link: "#"
     link_text: People

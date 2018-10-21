@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   - link: about.html
     link_text: About
-  - link: "#"
+  - link: people.html
     link_text: People
   - link: "#"
     link_text: Projects

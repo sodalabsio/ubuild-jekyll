@@ -13,7 +13,7 @@ page_sections:
     link_text: About
   - link: people.html
     link_text: People
-  - link: "#"
+  - link: projects.html
     link_text: Projects
   - link: "#"
     link_text: About Us

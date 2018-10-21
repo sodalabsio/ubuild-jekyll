@@ -13,6 +13,8 @@ page_sections:
     link_text: About
   - link: "#"
     link_text: Projects
+  - link: "#"
+    link_text: Contact
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

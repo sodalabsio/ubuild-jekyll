@@ -5,6 +5,12 @@ date: 2018-10-21 00:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
+  logo: "/uploads/2018/10/20/lillogo.png"
+  navigation:
+  - link: Home
+  - {}
+  - {}
+  - {}
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

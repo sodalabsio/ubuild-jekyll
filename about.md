@@ -20,10 +20,13 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   heading: About Us
-- template: 1-column-text
-  block: one-column-1
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   headline: Paul
-  content: dsfsaddsdfs
+  content: sdfdsaf sdfsd;fk;sdf
+  media:
+    image: "/uploads/2018/10/21/paul.jpg"
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

@@ -42,6 +42,9 @@ page_sections:
   col_1:
     content: <img src="/uploads/2018/10/21/logo-mit-technology-review-180x180.png">
     headline: MIT Technology Review
+  col_2:
+    content: <img src="/uploads/2018/10/21/wired-logo-300x60.png">
+    headline: Wired Magazine
 - template: content-feature
   block: feature-1
   media_alignment: Left

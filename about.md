@@ -54,6 +54,23 @@ page_sections:
   media:
     image: "/uploads/2018/10/21/simon.jpeg"
   headline: Dr. Simon Angus
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2018/10/21/klaus.jpg"
+  headline: Dr. Klaus Ackermann
+  content: 'Klaus is Lecturer at the Department of Econometrics and Business Statistics
+    at Monash University. His passion is in technology, economics, data and computational
+    approaches to get exciting insights about human behaviour. Broadly speaking, his
+    research sits under the headline: how does technological progress affect societies
+    and vice versa? What behavioural patterns that were disguised previously can now
+    be researched as people reveal their choices through the use of technology? How
+    can we use collected data to improve operational outcomes of not for profit organizations
+    by using Machine Learning? There are social issues that need to be addressed on
+    an individual level, but he believes it is possible to impact the world on an
+    aggregate level by using data.<br><br>Website: <a href="https://sites.google.com/site/acck1aus/"
+    title="https://sites.google.com/site/acck1aus/">https://sites.google.com/site/acck1aus/</a>'
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

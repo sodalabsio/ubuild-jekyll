@@ -37,6 +37,22 @@ page_sections:
     <a href="https://twitter.com/PaulRaschky" title="https://twitter.com/PaulRaschky">https://twitter.com/PaulRaschky</a>
   media:
     image: "/uploads/2018/10/21/paul.jpg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  content: Simon Angus is a computational and complexity scientist and Associate Professor
+    of the Department of Economics, Monash University. With a background across the
+    physical and social sciences, he has diverse interests including complex systems
+    science, data-science, networks, systems biology, evolutionary game theory and
+    most principally in Economics, the study of technology and innovation. Simon has
+    co-founded a number of academic, commercial and not-for-profit impact outlets
+    including <a href="" title="">KASPR Datahaus Pty Ltd</a>, the <a href="http://ip-observatory.org"
+    title="">IP Observatory</a>, and <a href="http://sharedintentions.net]" title="">SharedIntentions.net</a>.
+    <br><br>Simon is also a multi-award winning educator for his innovations in peer-assessment,
+    feedback and in-class learning design, most often supported by learning analytics
+    software he has developed.
+  media:
+    image: "/uploads/2018/10/21/simon.jpeg"
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

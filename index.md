@@ -59,6 +59,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Want to be a research assistant?
 
 ---
 foo bar

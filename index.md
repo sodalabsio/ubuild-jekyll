@@ -40,11 +40,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>What We Do</strong>"
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: Projects recently featured in
+  content: Wired and MIT Magazine
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2018/10/21/logo-mit-technology-review-180x180.png"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1

@@ -15,7 +15,7 @@ page_sections:
     link_text: People
   - link: projects.html
     link_text: Projects
-  - link: "#"
+  - link: contact.html
     link_text: Contact
 - template: text-only-hero-banner
   block: hero-1

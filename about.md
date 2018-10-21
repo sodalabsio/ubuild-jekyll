@@ -22,6 +22,8 @@ page_sections:
   heading: About Us
 - template: 1-column-text
   block: one-column-1
+  headline: Paul
+  content: dsfsaddsdfs
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

@@ -9,7 +9,8 @@ page_sections:
   navigation:
   - link: "#"
     link_text: Home
-  - {}
+  - link: "#"
+    link_text: About
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

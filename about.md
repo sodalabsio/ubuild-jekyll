@@ -53,6 +53,7 @@ page_sections:
     software he has developed.
   media:
     image: "/uploads/2018/10/21/simon.jpeg"
+  headline: Dr. Simon Angus
 - template: simple-footer
   block: footer-1
   content: SoDa Labs - Est. 2018

@@ -15,8 +15,6 @@ page_sections:
     link_text: People
   - link: projects.html
     link_text: Projects
-  - link: "#"
-    link_text: About Us
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
